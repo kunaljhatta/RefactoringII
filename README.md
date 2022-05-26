@@ -1,4 +1,4 @@
-#Exploration 9.2 Split Variable 
+# Exploration 9.2 Split Variable 
 
 Smell - When you have a local variable that’s used to store various intermediate values inside a method (except for cycle variables). Any variable with more than one responsibility should be replaced with multiple variables, one for each responsibility. Using a variable for two different things is very confusing for the reader.
 
